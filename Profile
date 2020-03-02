@@ -372,7 +372,7 @@ Software developer , debugging, developing application.
 <h1 class="text-center text-primary"><span class="label label-success">PERSONAL INFORMATION</span></h1>	
 <br>
 <div  class="text-center">
-  <img src="Ganavi.JPG"  class="img-circle"  alt="Cinque Terre" width="320" height="400">
+  <img src="GANAVI.JPG"  class="img-circle"  alt="Cinque Terre" width="320" height="400">
  </div>
  <br>
  <br>
